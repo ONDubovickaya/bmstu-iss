@@ -7,3 +7,4 @@
 ## ЛАБОРАТОРНЫЕ РАБОТЫ
 ### Л/р №1. ТЕМА: Обработка текстов с помощью нейронных сетей
 ✓ материалы к лабораторной работе -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/blob/main/materials/practice/lab1.ipynb) ] <br />
+✓ лабораторная работа -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/tree/main/labs/lab1) ] <br />
