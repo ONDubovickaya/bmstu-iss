@@ -18,6 +18,7 @@
 
 ### Л/р №2. ТЕМА: Создание базы данных для хранения юридической информации
 ✓ материалы к лабораторной работе -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/blob/main/materials/practice/lab2.ipynb) ] <br />
+✓ лабораторная работа -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/tree/main/labs/lab2) ] <br />
 
 ### Л/р №3. ТЕМА: Классификация изображений и текстов на AutoML
 ✓ материалы к лабораторной работе -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/blob/main/materials/practice/lab3.ipynb) ] <br />
