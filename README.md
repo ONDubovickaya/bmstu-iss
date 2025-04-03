@@ -11,6 +11,10 @@
 ✓ [ [Часть 1](https://github.com/ONDubovickaya/iss-private/blob/main/materials/theory/lecture3.1.ipynb) ] Анализ параметров нейронной сети для Bag-of-Words <br />
 ✓ [ [Часть 2](https://github.com/ONDubovickaya/iss-private/blob/main/materials/theory/lecture3.2.ipynb) ] Введение в AutoML для классификации текстов и изображений <br />
 
+### Лекция №4 (24.03)
+✓ [ [Часть 1](https://github.com/ONDubovickaya/iss-private/blob/main/materials/theory/lecture4.1.ipynb) ] Квантизация нейронных сетей <br />
+✓ [ [Часть 2](https://github.com/ONDubovickaya/iss-private/blob/main/materials/theory/lecture4.2.ipynb) ] Прореживание (прунинг) нейронных сетей <br />
+
 ## ЛАБОРАТОРНЫЕ РАБОТЫ
 ### Л/р №1. ТЕМА: Обработка текстов с помощью нейронных сетей
 ✓ материалы к лабораторной работе -> [ [смотреть](https://github.com/ONDubovickaya/iss-private/blob/main/materials/practice/lab1.ipynb) ] <br />
